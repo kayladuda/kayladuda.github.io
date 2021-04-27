@@ -1,6 +1,6 @@
 @media print {
   body {
-    background-color: #fff; }
+    background-color: rgba(255, 255, 255, 0.644); }
   .container {
     width: auto;
     max-width: 100%;
