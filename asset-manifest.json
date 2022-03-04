@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b01f7db2.css",
+    "main.js": "/static/js/main.5821db54.js",
+    "static/media/get_well_soon.jpg": "/static/media/get_well_soon.58104375613b80a4432c.jpg",
+    "static/media/happy_birthday.jpg": "/static/media/happy_birthday.9848a2e58490288ee463.jpg",
+    "static/media/happy_b-day.jpg": "/static/media/happy_b-day.de30bfc59c49026f94ef.jpg",
+    "static/media/happy_birthday_red.jpg": "/static/media/happy_birthday_red.61d6fe661be1d0220c20.jpg",
+    "static/media/thank_you_a_bunch.jpg": "/static/media/thank_you_a_bunch.fe91b109ed2d6a47df5b.jpg",
+    "static/media/free_cake.jpg": "/static/media/free_cake.cb61ec830d7f7f7d2855.jpg",
+    "static/media/with_deepest_sympathy.jpg": "/static/media/with_deepest_sympathy.676a2fdb9b6f52c1eafa.jpg",
+    "static/media/thinking_of_you.jpg": "/static/media/thinking_of_you.9c7157931ab2b4603878.jpg",
+    "static/media/happy_birthday_blue.jpg": "/static/media/happy_birthday_blue.1fe93a4d2453237cec73.jpg",
+    "static/media/ring.jpg": "/static/media/ring.c3a380a2f5b4abbdce2f.jpg",
+    "static/media/sending_love_and_sympathy.jpg": "/static/media/sending_love_and_sympathy.8c75aca8e05fdddef29f.jpg",
+    "static/media/love.jpg": "/static/media/love.c2a900a96f961d7bdf4f.jpg",
+    "static/media/thankful.jpg": "/static/media/thankful.17bde548e35ae7cf3955.jpg",
+    "static/media/sorry_for_your_loss.jpg": "/static/media/sorry_for_your_loss.7e7e3921bd84e56e49da.jpg",
+    "index.html": "/index.html",
+    "main.b01f7db2.css.map": "/static/css/main.b01f7db2.css.map",
+    "main.5821db54.js.map": "/static/js/main.5821db54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b01f7db2.css",
+    "static/js/main.5821db54.js"
+  ]
+}
